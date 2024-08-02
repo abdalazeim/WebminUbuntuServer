@@ -5,8 +5,8 @@
 ### settings, and change settings for common packages on the fly.
 ### In this tutorial, you’ll install and configure Webmin on your server and secure access to the interface with a valid certificate from Let’s Encrypt. You’ll then use Webmin to ### add new user accounts, and update all packages on your server from the dashboard.
 ## Step 1 — Installing Webmin
-## First, update your server’s package index if you’ve not done so recently:
-# 1. sudo apt update && sudo apt upgrade
+## 1. First, update your server’s package index if you’ve not done so recently:
+#  sudo apt update && sudo apt upgrade
 
 
 ### That's All:
