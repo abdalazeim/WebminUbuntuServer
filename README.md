@@ -24,6 +24,14 @@
 ## cNavigate to https://your_domain:10000 in your web browser, replacing your_domain with the domain name pointing to your server’s IP address.
 # https://localhost:10000/
 
+
+
+- **ScrennShot**:
+
+     ![ScrennShot](https://github.com/abdalazeim/WebminUbuntuServer/blob/main/Webmi.png)
+
+
+
 ### That's All:
 ### - Thanks For Usage :)
  ### - Have A Nice Day,GoodBye :)
